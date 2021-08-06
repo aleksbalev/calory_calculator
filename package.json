@@ -1,0 +1,21 @@
+{
+  "name": "calory_calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "7.14.6",
+    "@babel/preset-env": "7.14.7",
+    "babel-jest": "27.0.6",
+    "jest": "27.0.6",
+    "jest-environment-jsdom": "^27.0.6",
+    "jest-environment-jsdom-global": "^2.0.4"
+  }
+}
